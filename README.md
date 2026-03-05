@@ -65,7 +65,7 @@ Contributions are welcome! If you find a leak or have a suggestion:
 
 ## 📝 Credits & License
 
-* **Developer:** vnnhattruongneee
+* **Developer:** VNNhatTruongneee
 * **Organization:** DonutOptimizedPVP
 * **License:** Distributed under the MIT License. See `LICENSE` for more information.
 
